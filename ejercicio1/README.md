@@ -26,9 +26,11 @@ listo
 
 Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
 git commit -m "agregar solucion primer ejercicio"
+listo
 
 Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
-
+ok
 Enviar el link del repositorio en Github a su mentor(a).
+ok
 
 Bonus:

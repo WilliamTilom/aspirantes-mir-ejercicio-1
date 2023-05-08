@@ -19,8 +19,16 @@ git init
 
 Crear un primer commit con el mensaje “Versión Inicial”.
 add .
+git add .
+git commit -m "version inicial"
 Agregar al README.md los comandos que ejecutaron en cada paso.
+listo
+
 Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
+git commit -m "agregar solucion primer ejercicio"
+
 Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
+
 Enviar el link del repositorio en Github a su mentor(a).
+
 Bonus:

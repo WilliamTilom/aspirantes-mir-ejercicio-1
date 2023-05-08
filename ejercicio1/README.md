@@ -11,8 +11,8 @@ listo
 Crear un archivo llamado README.md (vacío) dentro de la carpeta ejercicio1. listo
 Configurar nombre e email globalmente en git.
 
-git config --global user.name William Tilom
-git config --global user.email ottoniel8933@gmail.com
+git config --global user.name WilliamTilom
+git config --global user.email wtilomp@miumg.edu.gt
 
 Inicializar el repositorio de git desde la línea de comandos desde la carpeta ejercicios.
 git init

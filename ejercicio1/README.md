@@ -33,4 +33,4 @@ ok
 Enviar el link del repositorio en Github a su mentor(a).
 ok
 
-Bonus:
+Bonus: el bonus esta pendiente
